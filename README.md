@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor Full Stack | C# | React | PHP | TypeScript <br/>
-  🎯 Apaixonado por tecnologia e soluções digitais eficientes.
+  🎯 Transformando tecnologia em soluções digitais que impulsionam o seu futuro.
 </p>
 
 <p align="center">
