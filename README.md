@@ -72,4 +72,3 @@ Sinta-se à vontade para me chamar para bater um papo sobre tecnologia, projetos
 
 ---
 
-> 💡 *"Tecnologia é ponte entre ideias e realizações. Programar é construir caminhos para transformar realidades."*
