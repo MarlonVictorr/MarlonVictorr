@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marlon-victor/" target="_blank">
+  <a href="https://www.linkedin.com/in/marlonv1ctor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Marlon%20Victor-blue?logo=linkedin" />
   </a>
   <a href="https://lnkd.in/d-753WGw" target="_blank">
@@ -68,7 +68,7 @@ Estou criando este repositório para compartilhar projetos da empresa e da minha
 Sinta-se à vontade para me chamar para bater um papo sobre tecnologia, projetos ou colaborações!
 
 📩 marlonvitor052@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/marlon-victor/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/marlonv1ctor/)  
 🌐 [Portfólio](https://lnkd.in/d-753WGw)
 
 ---
