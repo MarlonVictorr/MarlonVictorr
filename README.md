@@ -68,7 +68,7 @@ Sinta-se à vontade para me chamar para bater um papo sobre tecnologia, projetos
 
 📩 marlonvitor052@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/marlonv1ctor/)  
-🌐 [Portfólio](https://lnkd.in/d-753WGw)
+🌐 [Portfólio](https://portfolio-chi-dusky-63.vercel.app)
 
 ---
 
