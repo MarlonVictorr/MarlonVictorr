@@ -20,7 +20,6 @@
 
 Sou um desenvolvedor full stack com experiência em **sistemas corporativos** e **projetos web modernos**, atualmente atuando na **Real H Nutrição e Saúde Animal**. Gosto de unir a lógica da programação com um design intuitivo e interfaces fluidas, sempre buscando evoluir como profissional e entregar soluções de impacto.
 
-Estou criando este repositório para compartilhar projetos da empresa e da minha jornada, com documentação clara e aberta a feedbacks e sugestões.
 
 ---
 
