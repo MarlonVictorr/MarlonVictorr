@@ -35,10 +35,14 @@ Estou criando este repositório para compartilhar projetos da empresa e da minha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/websocket.svg" height="40" alt="websocket" />
 </p>
+
 
 ---
 
@@ -63,7 +67,7 @@ Estou criando este repositório para compartilhar projetos da empresa e da minha
 
 Sinta-se à vontade para me chamar para bater um papo sobre tecnologia, projetos ou colaborações!
 
-📩 marlon@email.com (ajuste para o seu real)  
+📩 marlonvitor052@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/marlon-victor/)  
 🌐 [Portfólio](https://lnkd.in/d-753WGw)
 
