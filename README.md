@@ -45,7 +45,12 @@ Sou um desenvolvedor full stack com experiência em **sistemas corporativos** e 
 
 ---
 
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonVictorr&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonVictorr&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 ---
 
